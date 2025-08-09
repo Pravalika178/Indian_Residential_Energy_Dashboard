@@ -40,16 +40,3 @@ Copy
 Edit
 streamlit run app.py
 This will launch the dashboard in your default web browser.
-
-Future Enhancements
-Implement time-series forecasting for long-term predictions
-
-Add support for user-uploaded datasets
-
-Include additional ML models for better accuracy
-
-Deploy the app online for public access
-
-Author
-Pravalika Chintawar
-GitHub: https://github.com/Pravalika178
